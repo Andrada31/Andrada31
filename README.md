@@ -1,4 +1,4 @@
-<img src="https://github.com/Andrada31/Andrada31/blob/main/banner_.png">
+<img src="https://github.com/Andrada31/Andrada31/blob/main/banner17.png">
 
 ## About me
 
