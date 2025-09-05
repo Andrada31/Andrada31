@@ -11,7 +11,7 @@ Web & AI Developer
 - React, Vite, Next, TailwindCSS, NodeJS, TensorFlow, PyTorch
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/andrada-mihaela-paraczki-888b1a374/)">
+  <a href="https://www.linkedin.com/in/andrada-mihaela-paraczki-888b1a374/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp
   <a href="https://www.kaggle.com/andradaparaczki">
