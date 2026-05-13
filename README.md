@@ -18,3 +18,9 @@ Web & AI Developer
   </a>
 </div>
 
+***
+### Metrics
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrada31&theme=transparent&hide_border=true&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff" height="150" alt="Streak Card" />
+</p>
+
