@@ -1,13 +1,15 @@
 <img src="https://github.com/Andrada31/Andrada31/blob/main/banner_.png">
 
-## About me
-I am an employed student, passionate about web development and computer vision, as well as astronomy. One of my long-term goals is to help in the progress of astroinformatics. My current area of interests includes AI and quantum computing, as well as whatever other bizarrerie this new era requires us to learn.
+# About me
+Currently employed MSc student, passionate about **web development** and **computer vision**, as well as **astronomy**. I have 3+ years of experience building web platforms for universities and small web design projects. My other area of interest is AI, especially computer vision. I am accustomed with training AI, from data mining & preprocessing to fine-tuning vision models for specialized tasks. 
 
 
-Web & AI Developer
 
-- HTML5, CSS3, JavaScript, TypeScript, Python, Java, C/C++, SQL
-- React, Vite, Next, TailwindCSS, NodeJS, TensorFlow, PyTorch
+### Programming Skills
+*   **Languages:** TypeScript, JavaScript, Python, Java, C/C++, SQL
+*   **Frameworks:** React, Next.js, Astro, Tailwind CSS, ShadCN, TensorFlow, PyTorch
+*   **DevOps & Tools:** Docker, Git, Jupyter, Chrome DevTools
+
 
 
 <div id="badges">
