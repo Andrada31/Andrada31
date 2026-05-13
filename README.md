@@ -20,9 +20,6 @@ Web & AI Developer
 </div>
 
 ---
-
-### Metrics
-
 <p align="left">
   <!-- Streak Card (Width slightly reduced to force side-by-side) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrada31&theme=dark&hide_border=true&background=0d1117&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=20BEFF" height="160" />
