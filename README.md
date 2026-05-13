@@ -9,18 +9,21 @@ Web & AI Developer
 - HTML5, CSS3, JavaScript, TypeScript, Python, Java, C/C++, SQL
 - React, Vite, Next, TailwindCSS, NodeJS, TensorFlow, PyTorch
 
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrada-mihaela-paraczki-888b1a374/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp
+  </a>&nbsp;
   <a href="https://www.kaggle.com/andradaparaczki">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
 
-***
-### Metrics
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrada31&theme=transparent&hide_border=true&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff" height="150" alt="Streak Card" />
-</p>
+---
 
+### Metrics
+
+<p align="left">
+  <!-- Streak Card (Width slightly reduced to force side-by-side) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrada31&theme=dark&hide_border=true&background=0d1117&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=20BEFF" height="160" />
+  
