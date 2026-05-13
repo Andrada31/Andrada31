@@ -23,4 +23,9 @@ Currently employed MSc student, passionate about **web development** and **compu
 <p align="left">
   <!-- Streak Card (Width slightly reduced to force side-by-side) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrada31&theme=dark&hide_border=true&background=0d1117&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=20BEFF" height="160" />
-  
+
+### Production Projects
+
+<a href="[https://your-production-link.com](https://nexus.e-uvt.ro/)">
+  <img src="https://img.shields.io/badge/NEXUS-87CEEB?style=for-the-badge&logo=nexus&logoColor=white" alt="NEXUS Badge"/>
+</a>
