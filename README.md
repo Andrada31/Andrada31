@@ -4,10 +4,8 @@
 Currently employed MSc student, passionate about **web development** and **computer vision**, as well as **astronomy**. I have 3+ years of experience building web platforms for universities and small web design projects. My other area of interest is AI, especially computer vision. I am accustomed with training AI, from data mining & preprocessing to fine-tuning vision models for specialized tasks. 
 
 
-
-### Programming Skills
-*   **Languages:** TypeScript, JavaScript, Python, Java, C/C++, SQL
-*   **Frameworks:** React, Next.js, Astro, Tailwind CSS, ShadCN, TensorFlow, PyTorch
+*   **Programming Languages:** TypeScript, JavaScript, Python, Java, C/C++, SQL
+*   **Frameworks & Libraries:** React, Next.js, Astro, Tailwind CSS, ShadCN, TensorFlow, PyTorch
 *   **DevOps & Tools:** Docker, Git, Jupyter, Chrome DevTools
 
 
