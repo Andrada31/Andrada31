@@ -1,7 +1,7 @@
 <img src="https://github.com/Andrada31/Andrada31/blob/main/banner_.png">
 
 # About me
-Currently employed MSc student, passionate about **web development** and **computer vision**, as well as **astronomy**. I have 3+ years of experience building web platforms for universities and small web design projects. My other area of interest is AI, especially computer vision. I am accustomed with training AI, from data mining & preprocessing to fine-tuning vision models for specialized tasks. 
+Currently employed MSc student, passionate about **web development** and **computer vision**, as well as **astronomy**. I have 3+ years of experience building web platforms for universities and small web / mobile apps. My other area of interest is AI, especially computer vision. I am accustomed with training AI, from data mining & preprocessing to fine-tuning vision models for specialized tasks. 
 
 
 *   **Programming Languages:** TypeScript, JavaScript, Python, Java, C/C++, SQL
