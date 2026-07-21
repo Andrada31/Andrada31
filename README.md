@@ -1,4 +1,4 @@
-<img src="https://github.com/Andrada31/Andrada31/blob/main/banner_.png">
+<img src="https://github.com/Andrada31/Andrada31/raw/main/banner_.png">
 
 # About me
 Currently employed MSc student, passionate about **web development** and **computer vision**, as well as **astronomy**. I have 3+ years of experience building web platforms for universities and small web / mobile apps. My other area of interest is AI, especially computer vision. I am accustomed with training AI, from data mining & preprocessing to fine-tuning vision models for specialized tasks. 
@@ -22,7 +22,8 @@ Currently employed MSc student, passionate about **web development** and **compu
 ---
 <p align="left">
   <!-- Streak Card (Width slightly reduced to force side-by-side) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrada31&theme=dark&hide_border=true&background=0d1117&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=20BEFF" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrada31&theme=dark&hide_border=true&background=0d1117&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=20BEFF&v=1" height="160" />
+</p>
 
 ### Production Projects
 
