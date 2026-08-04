@@ -21,8 +21,7 @@ Currently employed MSc student, passionate about **web development** and **compu
 
 ---
 <p align="left">
-  <!-- Streak Card (Width slightly reduced to force side-by-side) -->
-  <img src="https://streak-stats.demolab.com/?user=Andrada31&theme=dark&hide_border=true&background=0d1117&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=20BEFF&v=4" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=Andrada31&theme=dark&hide_border=true&background=0d1117&stroke=20BEFF&ring=20BEFF&fire=20BEFF&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=20BEFF&v=5" height="160" />
 </p>
 
 ### Production Projects
