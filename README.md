@@ -30,4 +30,7 @@ Currently employed MSc student, passionate about **web development** and **compu
 
 <a href="https://nexus.e-uvt.ro/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/NEXUS-87CEEB?style=for-the-badge&logo=nexus&logoColor=white" alt="NEXUS Badge"/>
+</a>&nbsp;
+<a href="https://andrada31.github.io/Reacteca/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/REACTECA-58D3DB?style=for-the-badge&logo=react&logoColor=black" alt="Reacteca Badge"/>
 </a>
