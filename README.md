@@ -5,7 +5,7 @@ Currently employed MSc student, passionate about **web development** and **compu
 
 
 *   **Programming Languages:** TypeScript, JavaScript, Python, Java, C/C++, SQL
-*   **Frameworks & Libraries:** React, Next.js, Astro, Tailwind CSS, ShadCN, TensorFlow, PyTorch
+*   **Frameworks & Libraries:** React, Next.js, Astro, Tailwind CSS, ShadCN, TensorFlow, PyTorch, Kaplay.js
 *   **DevOps & Tools:** Docker, Git, Jupyter, Chrome DevTools
 
 
